@@ -1,5 +1,6 @@
 ## About
-  WIP - An app built with React Native where you can send GOT Shame to your friends. My primary motivation is to teach my younger brother how to use React Native.
+  WIP - An app built with React Native where you can send GOT Shame to your friends. 
+My primary motivation for this app is to teach my younger brother how to use React Native.
 
 ## Improvements I'd like to do
 - [ ] Implement the whole thing
