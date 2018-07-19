@@ -14,7 +14,7 @@ Load_New_Image=()=>{
     imageURL : 'https://media0.giphy.com/media/vX9WcCiWwUF7G/giphy.gif'
   },  () => timer.setTimeout(this, 'hideImg', () => this.setState({
     imageURL : 'https://pm1.narvii.com/6079/653d4ded88f5b358bb252a771c0d1c8e4215288c_hq.jpg'
-  }), 2000) )
+  }), 3500) )
 }
   render() {
     return (
