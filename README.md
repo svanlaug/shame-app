@@ -1,7 +1,6 @@
 ## About
-  WIP - An app built with React Native where you can send GOT Shame to your friends. 
+  WIP - An app built with React Native where you can send GOT Shame to your friends.
 My primary motivation for this app is to teach my younger brother how to use React Native.
-
 ## Improvements I'd like to do
 - [ ] Implement the whole thing
 
@@ -23,5 +22,5 @@ My primary motivation for this app is to teach my younger brother how to use Rea
   6. 🎉🎉🎉 (If not: [Troubleshooting](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md#troubleshooting))
 
 ## Unit tests
-  Run all unit tests with: 
+  Run all unit tests with:
   `$ yarn test`
