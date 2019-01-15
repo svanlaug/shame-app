@@ -1,6 +1,9 @@
 ## About
   WIP - An app built with React Native where you can send GOT Shame to your friends.
 My primary motivation for this app is to teach my younger brother how to use React Native.
+
+![simulator screen shot - iphone x - 2019-01-15 at 16 04 26_iphonexspacegrey_portrait](https://user-images.githubusercontent.com/6841437/51200009-31e7c000-18f0-11e9-8c86-a63ce1a2d406.png)
+
 ## Improvements I'd like to do
 - [ ] Implement the whole thing
 
